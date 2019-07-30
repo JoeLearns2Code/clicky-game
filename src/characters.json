@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Cloud",
+        "image": "../imgs/cloud.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Tifa",
+        "image": "../imgs/tifa.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Barret",
+        "image": "../imgs/barret.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Aerith",
+        "image": "../imgs/aerith.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Sephiroth",
+        "image": "../imgs/sephiroth.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Cid",
+        "image": "../imgs/cid.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Jenova",
+        "image": "../imgs/jenova.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "RedXIII",
+        "image": "../imgs/redxiii.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Vincent",
+        "image": "../imgs/vincent.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Yuffie",
+        "image": "../imgs/yuffie.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Reno",
+        "image": "../imgs/reno.jpg"
+    },
+
+    {
+        "id": 12,
+        "name": "Zack",
+        "image": "../imgs/zack.jpg"
+    }
+
+]
