@@ -1,8 +1,9 @@
 import React from "react";
 import "./style.css";
 
-function Title(props) {
+function Header(props) {
   return <h1 className="title">{props.children}</h1>;
+  
 }
 
-export default Title;
+export default Header;
