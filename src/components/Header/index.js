@@ -9,7 +9,7 @@ const Header = props => (
       Score: {props.score}
     </div>
     <div className="highscore">
-      Highscore: {props.highscore}
+      Top Score: {props.topScore}
     </div>
   </div>
 );
