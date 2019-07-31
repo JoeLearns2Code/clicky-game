@@ -32,7 +32,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Header>Final Fantasy VII</Header>
+        <Header score={this.state.score} highscore={this.state.highscore}>Final Fantasy VII Guessing Game</Header>
         {this.state.characters.map(character => (
         <CharacterCard
           clickCheck={this.clickCheck}
