@@ -4,7 +4,7 @@ Clicky-Game is a React.js application memory game.  The object of the game is to
 
 ## Getting Started
 
-Clicky-Game is deployed via Heroku.  A direct link for the Heroku can be found here: https://jl2cnews-clicky-game.herokuapp.com/
+Clicky-Game is deployed via Heroku.  A direct link for the Heroku can be found here: https://jl2c-clicky-game.herokuapp.com/
 
 Files and other information can be found on GitHub here: https://github.com/JoeLearns2Code/clicky-game
 
